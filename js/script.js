@@ -19,7 +19,7 @@ form.addEventListener('submit',(e) =>
     let content = document.getElementById('content')
     let carregando = `<p>carregando...</p>`
     
-    let pronto = `<p>E-mail cadastrado com sucesso! Você será rediricionado para nosso site!</p>`
+    let pronto = `<p>E-mail cadastrado com sucesso! Você será redirecionado para nosso site!</p>`
     content.innerHTML = pronto
     
 
